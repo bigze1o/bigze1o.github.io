@@ -41,7 +41,7 @@ owner:
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          duyltk.cs@gmail.com
   # Twitter nick for use in Twitter cards and follow button.
-  twitter: aron_bordin # if no twitter in this config, the twitter follow button will be removed
+  twitter: bigze1o # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
   github: bigze1o
 
@@ -52,11 +52,10 @@ twitter:
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
   - title: "github"
-    url: "https://github.com/aron-bordin"
+    url: "https://github.com/bigze1o"
   - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
-  - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+    url: "https://br.linkedin.com/in/bigze1o"
+  
 
 # Background image to be tiled on all pages
 background:
