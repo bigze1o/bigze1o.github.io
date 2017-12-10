@@ -1,5 +1,5 @@
-title:            Blog Title
-description:      Describe your website here.
+title:            BigZe1o
+description:      Personal site.
 
 # put your disqus here
 disqus_shortname:
@@ -19,7 +19,7 @@ url: https://bigze1o.github.io/
 # See the example
 menu:
   - title: 'Home'
-    url: '/'
+    url: 'https://bigze1o.github.io'
   - title: 'Fork'
     url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
   - title: 'Install'
@@ -39,15 +39,15 @@ menu:
 
 # Owner/author information
 owner:
-  name:           Your name
-  site:           http://aronbordin.com
+  name:           BigZe1o
+  site:           http://bigze1o.github.io
   avatar:         images/avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  email:          duyltk.cs@gmail.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter: aron_bordin # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
-  github: aron-bordin
+  github: bigze1o
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
@@ -72,7 +72,7 @@ google_verify:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Ho_Chi_Minh
 locale:      en_US
 future:      true
 highlighter: rouge
