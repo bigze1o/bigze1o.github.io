@@ -27,11 +27,11 @@ menu:
     # type: 'categories'
   # - title: 'Favorites'
   #   url: '#'
-    submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
+    # submenu:
+    #   - title: 'Code Highlighter'
+    #     url: '/intro/code-highlighting-post/'
+    #   - title: 'Sample Post'
+    #     url: '/intro/sample-post/'
 
 # Owner/author information
 owner:
