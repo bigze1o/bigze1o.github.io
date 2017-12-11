@@ -27,5 +27,9 @@ Bài toán dự đoán sự tồn tại của liên kết trong mạng có trọ
 ## 3. Cơ sở lý thuyết:
 ### 3.1 Mô hình dự đoán tổng quát
 Mô hình để giải quyết bài toán dự đoán sự tồn tại của liên kết dựa theo hướng tiếp cận máy học hoạt động trên hai quá trình: *huấn luyện (thực hiện offline)* và *dự đoán (thực hiện online)*. Toàn bộ hoạt động của mô hình được biểu diễn chi tiết theo hình dưới đây:
+
 **Hình**
+
 Chi tiết hoạt động của hai quá trình huấn luyện như sau:
+* **Quá trình huấn luyện**:
+* Quá trình tiền xử lý dữ liệu (Pre-processing): ở bước này, quá trình tiền xử lý dữ liệu và đưa về cấu trúc của đồ thị mạng, với các đỉnh là các nhân tố/chủ thể đại diện, đồng thời các cạnh liên kết giữa các đỉnh thể hiện mối quan hệ tương tác với nhau.
