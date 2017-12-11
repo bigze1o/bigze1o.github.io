@@ -17,6 +17,7 @@ Khai thác dữ liệu trên dữ liệu lớn là một trong những bài toá
 Mạng lưới mạng xã hội <a href="https://www.codecogs.com/eqnedit.php?latex=G(E,V)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?G(E,V)" title="G(E,V)" /></a>, bao gồm:
 * <a href="https://www.codecogs.com/eqnedit.php?latex=E" target="_blank"><img src="https://latex.codecogs.com/svg.latex?E" title="E" /></a>: là tập các liên kết (cạnh).
 * <a href="https://www.codecogs.com/eqnedit.php?latex=V" target="_blank"><img src="https://latex.codecogs.com/svg.latex?V" title="V" /></a>: là tập các đỉnh (đỉnh).
+
 Bài toán dự đoán sự tồn tại của liên kết trong mạng có trọng số có *input* và *output* như sau:
 * **Input** : thông tin về các liên kết trong mạng tại một thời điểm.
 * **Output** : những liên kết sẽ được xuất hiện trong tương lai.
