@@ -21,3 +21,11 @@ Mạng lưới mạng xã hội <a href="https://www.codecogs.com/eqnedit.php?la
 Bài toán dự đoán sự tồn tại của liên kết trong mạng có trọng số có *input* và *output* như sau:
 * **Input** : thông tin về các liên kết trong mạng tại một thời điểm.
 * **Output** : những liên kết sẽ được xuất hiện trong tương lai.
+
+## 2.Tổng quan về hướng tiếp cận:
+
+## 3. Cơ sở lý thuyết:
+### 3.1 Mô hình dự đoán tổng quát
+Mô hình để giải quyết bài toán dự đoán sự tồn tại của liên kết dựa theo hướng tiếp cận máy học hoạt động trên hai quá trình: *huấn luyện (thực hiện offline)* và *dự đoán (thực hiện online)*. Toàn bộ hoạt động của mô hình được biểu diễn chi tiết theo hình dưới đây:
+**Hình**
+Chi tiết hoạt động của hai quá trình huấn luyện như sau:
