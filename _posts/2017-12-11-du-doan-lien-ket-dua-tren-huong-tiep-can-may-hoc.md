@@ -15,29 +15,4 @@ Khai thác dữ liệu trên dữ liệu lớn là một trong những bài toá
 
 ## 1.Phát biểu bài toán:
 Mạng lưới mạng xã hội 
-http://www.HostMath.com/Show.aspx?Code=%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D
-<script type="text/javascript" src="http://www.hostmath.com/Math/MathJax.js?config=OK"></script>
-\[\frac{-b\pm\sqrt{b^2-4ac}}{2a}\]
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-  <mfrac>
-    <mrow>
-      <mo>&#x2212;<!-- − --></mo>
-      <mi>b</mi>
-      <mo>&#x00B1;<!-- ± --></mo>
-      <msqrt>
-        <msup>
-          <mi>b</mi>
-          <mn>2</mn>
-        </msup>
-        <mo>&#x2212;<!-- − --></mo>
-        <mn>4</mn>
-        <mi>a</mi>
-        <mi>c</mi>
-      </msqrt>
-    </mrow>
-    <mrow>
-      <mn>2</mn>
-      <mi>a</mi>
-    </mrow>
-  </mfrac>
-</math>
+<img src="http://www.sciweavers.org/tex2img.php?eq=%5Clim_%7Bx%20%5Cto%20a%7D%20%5Cfrac%7Bf%28x%29%20-%20f%28a%29%7D%7Bx%20-%20a%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="\lim_{x \to a} \frac{f(x) - f(a)}{x - a}" width="124" height="44" />
