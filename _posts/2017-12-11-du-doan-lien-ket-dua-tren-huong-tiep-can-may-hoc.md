@@ -4,7 +4,7 @@ title: Dự đoán liên kết dựa trên hướng tiếp cận máy học
 description: "Link prediction with machine learning approach"
 modified: 2017-12-11
 tags: [link-prediction]
-categories: [data-mining]
+categories: [data-mining, machine-learning]
 image:
     feature: feature.jpg
     credit: dargadgetz
