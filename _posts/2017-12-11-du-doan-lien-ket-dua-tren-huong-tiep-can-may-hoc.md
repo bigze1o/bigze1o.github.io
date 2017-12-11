@@ -16,6 +16,6 @@ Khai thác dữ liệu trên dữ liệu lớn là một trong những bài toá
 ## 1.Phát biểu bài toán:
 Mạng lưới mạng xã hội 
 <script type="text/javascript"
-     src="https://d3eoax9i5htok0.cloudfront.net/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
+     src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  </script>
 Let's consider <math><mi>a</mi><mo>≠</mo><mn>0</mn></math>.
