@@ -15,4 +15,7 @@ Khai thác dữ liệu trên dữ liệu lớn là một trong những bài toá
 
 ## 1.Phát biểu bài toán:
 Mạng lưới mạng xã hội 
-<img src="http://www.sciweavers.org/tex2img.php?eq=%5Clim_%7Bx%20%5Cto%20a%7D%20%5Cfrac%7Bf%28x%29%20-%20f%28a%29%7D%7Bx%20-%20a%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="\lim_{x \to a} \frac{f(x) - f(a)}{x - a}" width="124" height="44" />
+<script type="text/javascript"
+     src="https://d3eoax9i5htok0.cloudfront.net/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+Let's consider <math><mi>a</mi><mo>≠</mo><mn>0</mn></math>.
