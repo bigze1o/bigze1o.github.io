@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: https://bigze1o.github.io
+url: https://ze1o.github.io
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -35,8 +35,8 @@ menu:
 
 # Owner/author information
 owner:
-  name:           BigZe1o
-  site:           http://bigze1o.github.io
+  name:           Ze1o
+  site:           http://ze1o.github.io
   avatar:         images/avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          duyltk.cs@gmail.com
